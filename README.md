@@ -49,8 +49,8 @@ If you want to learn more about building native executables, please consult http
 
 ## Related Guides
 
-- Kogito - Decisions (DMN) ([guide](https://quarkus.io/guides/kogito-dmn)): Add Kogito decision (DMN) capabilities - Include Drools DMN engine
-- Red Hat Airline Example (DMN) ([example](https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager/7.12/html/developing_decision_services_in_red_hat_process_automation_manager/dmn-con_dmn-models#dmn-model-example-ref_dmn-models))
+- Feel Language ([Feel Language](https://learn-dmn-in-15-minutes.com/learn/the-feel-language.html))
+- Red Hat Airline Example (DMN) ([Example](https://access.redhat.com/documentation/en-us/red_hat_process_automation_manager/7.12/html/developing_decision_services_in_red_hat_process_automation_manager/dmn-con_dmn-models#dmn-model-example-ref_dmn-models))
 
 
 
